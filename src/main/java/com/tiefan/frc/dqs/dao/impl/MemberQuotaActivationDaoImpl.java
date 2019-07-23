@@ -7,9 +7,6 @@ import org.springframework.stereotype.Repository;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by jiafeilu on 2018/6/12.
- */
 @Repository
 public class MemberQuotaActivationDaoImpl extends BaseDaoImpl implements IMemberQuotaActivationDao {
 
